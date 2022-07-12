@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+
+.App {
+    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+
+}
+/* bir web sayfasinda yukaridan asagiya dogru kaydirma yaptigimizda sayfanin arka renginin degisimi olabiliyor. bu  background özelligiyle.  */

@@ -1,0 +1,7 @@
+.card-container {
+    display: flex;
+    justify-content: space-evenly;  
+    flex-wrap: wrap;
+} 
+/* space-evenly esit olarak aralarinda bosluk birak.
+flex-wrap ise yan yana siralandiginda doldugunda asagiya gecmesini sagliyor resimlerin ve yazilarin. ekranin kücülmesi halinde. */
